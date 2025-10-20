@@ -26,9 +26,10 @@ This policy is designed to be clear and transparent about exactly what happens t
 6. [Subscription and Payment](#subscription-and-payment)
 7. [Third-Party Services](#third-party-services)
 8. [Children's Privacy](#childrens-privacy)
-9. [Your Privacy Rights](#your-privacy-rights)
-10. [Changes to This Policy](#changes-to-this-policy)
-11. [Contact Information](#contact-information)
+9. [How to Delete Your Data](#how-to-delete-your-data)
+10. [Your Privacy Rights](#your-privacy-rights)
+11. [Changes to This Policy](#changes-to-this-policy)
+12. [Contact Information](#contact-information)
 
 ---
 
@@ -274,6 +275,78 @@ If we become aware that a child under 13 has entered information into the app, w
 
 ---
 
+## How to Delete Your Data
+
+**You have complete control over deleting your data at any time.** Since all data is stored locally on your device, deletion is immediate and permanent.
+
+### Option 1: Delete Individual Entries (Recommended)
+
+To delete specific health entries:
+
+1. Open **My Med Journal**
+2. Navigate to the **Timeline** screen
+3. Find the entry you want to delete
+4. Tap the **delete icon** (trash can) on the entry
+5. Confirm deletion
+
+**What gets deleted:** The selected entry is permanently removed from your device's local database.
+
+### Option 2: Clear All App Data (Complete Wipe)
+
+To delete ALL health data while keeping the app installed:
+
+**On Android:**
+1. Go to your device **Settings**
+2. Navigate to **Apps** → **My Med Journal**
+3. Tap **Storage** → **Clear Data**
+4. Confirm deletion
+
+**On iOS:**
+1. Go to **Settings** → **General** → **iPhone Storage**
+2. Find **My Med Journal**
+3. Tap **Delete App**
+4. Reinstall from App Store if desired
+
+**What gets deleted:** All health entries, profile information, preferences, custom items, and reminders are permanently erased from your device.
+
+### Option 3: Uninstall the App (Complete Removal)
+
+To completely remove the app and all associated data:
+
+**On Android:**
+1. Go to your device **Settings**
+2. Navigate to **Apps** → **My Med Journal**
+3. Tap **Uninstall**
+
+Or: Long-press the app icon → **Uninstall**
+
+**On iOS:**
+1. Long-press the app icon
+2. Tap **Remove App** → **Delete App**
+
+**What gets deleted:** The app and ALL health data stored on your device are permanently removed. This cannot be undone unless you have a backup.
+
+### Important Notes About Data Deletion
+
+**Immediate and Permanent:**
+- All deletions happen immediately on your device
+- Deleted data **cannot be recovered** (unless you have a backup)
+- **We cannot help recover deleted data** because we never had access to it
+
+**What Happens to Backups:**
+- Deleting data from the app does **not** delete backup files you've created
+- If you want to delete backups, manually delete those files from wherever you saved them (email, cloud storage, device storage)
+
+**Subscription Status:**
+- Deleting app data or uninstalling the app does **not** cancel your subscription
+- To cancel subscriptions, go to your **Google Play Store** or **App Store** account settings
+
+**Contact for Help:**
+- If you need assistance with data deletion, email: **support@mymedjournal.app**
+- We typically respond within 48 hours
+
+---
+
 ## Your Privacy Rights
 
 You have complete control over your data because it's stored only on your device.
@@ -294,6 +367,7 @@ You have complete control over your data because it's stored only on your device
 - ✅ Delete individual entries through the Timeline
 - ✅ Clear all app data through device settings
 - ✅ Uninstall the app to remove all data permanently
+- ✅ See [How to Delete Your Data](#how-to-delete-your-data) for detailed instructions
 
 **Right to Export (Data Portability):**
 - ✅ Export data to PDF or CSV format
@@ -309,7 +383,7 @@ You have complete control over your data because it's stored only on your device
 You can exercise these rights directly within the app:
 - **Access:** Tap Timeline to view all entries
 - **Edit:** Tap any entry to edit it
-- **Delete:** Tap delete icon on any entry
+- **Delete:** See [How to Delete Your Data](#how-to-delete-your-data)
 - **Export:** Settings → Share/Export Journal
 - **Backup:** Settings → Backup & Restore
 
@@ -430,8 +504,8 @@ We may update this Privacy Policy from time to time to reflect:
 
 **Where to Find Updates:**
 - In the app: Settings → Privacy Policy
-- Online: [Your privacy policy URL]
-- GitHub: [Your repository URL]/PRIVACY_POLICY.md
+- Online: https://mymedjournal.app/PRIVACY_POLICY
+- GitHub: https://github.com/mccoymethod/my-med-journal/blob/main/PRIVACY_POLICY.md
 
 **You can always check the version number and date to see if the policy has changed.**
 
@@ -441,9 +515,9 @@ We may update this Privacy Policy from time to time to reflect:
 
 If you have questions, concerns, or requests regarding this Privacy Policy or your data, please contact us:
 
-**Support Email:** [support@mymedjournal.app or your email]  
-**Website:** [Your website URL]  
-**GitHub:** [Your GitHub repository URL]
+**Support Email:** support@mymedjournal.app  
+**Website:** https://mymedjournal.app  
+**GitHub:** https://github.com/mccoymethod/my-med-journal
 
 **Response Time:** We typically respond within 48 hours (2 business days).
 
