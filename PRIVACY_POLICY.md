@@ -1,8 +1,8 @@
 # Privacy Policy for My Med Journal
 
 **Effective Date:** October 17, 2025  
-**Last Updated:** October 17, 2025  
-**Version:** 1.0.0
+**Last Updated:** June 8, 2026  
+**Version:** 1.1.0
 
 ---
 
@@ -177,11 +177,10 @@ My Med Journal allows you to export your health data for sharing with healthcare
 - **You control** where to share it
 
 **Backup & Restore:**
-- Full encrypted database backup
-- JSON metadata file with backup info
-- Saved locally or shared to your chosen destination
-- Can be restored on the same or different device
-- **Important:** Backups contain all your health data - store them securely!
+- A full backup of your health data that you can **password-protect** (encrypted with a passphrase only you know) or save as a plain, readable file
+- Saved locally or shared to a destination you choose
+- Restorable on the same or a different device (a password-protected backup requires your passphrase to restore)
+- **Important:** Backups contain all your health data. Keep the backup — and your passphrase — somewhere safe. If you lose the passphrase, a password-protected backup **cannot be opened by anyone, including us.**
 
 ### Export Privacy
 
@@ -191,6 +190,8 @@ When you export data:
 - ✅ **You choose** what data to include (date range, categories)
 - ✅ **You choose** where to send or save it (email, cloud storage, device storage)
 - ✅ **You are responsible** for securing exported files
+
+**Encrypted vs. plain exports:** Backups can be **encrypted with a passphrase** you choose — without it, no one (including us) can read them. **PDF and CSV exports** (for example, to hand to your doctor) are **plain, readable files** by design, so any provider can open them. Once you export or share a file, it leaves the app's protection: **how it is stored, sent, and who can see it becomes your responsibility.**
 
 **Privacy Tip:** When sharing exports with healthcare providers, use encrypted email or secure patient portals when available.
 
@@ -209,10 +210,17 @@ My Med Journal offers optional premium subscriptions with enhanced features.
 - We **do not store** your payment information
 - We **do not have access** to your credit card or payment details
 
+**Subscription Verification (RevenueCat):**
+- We use **RevenueCat (RevenueCat, Inc.)**, a third-party subscription-management service, **solely to verify and manage your subscription status** (whether your free trial or subscription is active).
+- RevenueCat receives the **app-store purchase record** (which plan you bought and its purchase/expiration dates), a **randomly generated, anonymous identifier**, and **basic device/SDK information** used to validate the purchase.
+- RevenueCat does **NOT** receive any of your **health, medication, symptom, vitals, or journal data** — that information never leaves your device.
+- Because the identifier is random and anonymous, your subscription is **not linked to your name, email, or identity**.
+- RevenueCat's privacy policy: [revenuecat.com/privacy](https://www.revenuecat.com/privacy)
+
 **Subscription Information We Receive:**
-- ✅ **Subscription status:** Active, expired, or canceled
-- ✅ **Subscription tier:** Free trial, monthly, or annual
-- ❌ **We do NOT receive:** Your name, email, payment method, billing address, or transaction history
+- ✅ **Subscription status:** in trial, active, expired, or canceled
+- ✅ **Plan & dates:** free trial, monthly, or annual, with purchase/expiration dates (via RevenueCat, tied only to a random ID)
+- ❌ **We do NOT receive:** your name, email, payment method, billing address, credit card details — **or any of your health data**
 
 **Managing Subscriptions:**
 - Subscriptions are managed through your **Google Play** or **App Store** account
@@ -233,11 +241,16 @@ My Med Journal uses minimal third-party services to provide essential functional
 ### Services We Use
 
 1. **Google Play Billing (Android) / Apple StoreKit (iOS)**
-   - **Purpose:** Subscription management and verification only
-   - **Data Shared:** Anonymous subscription status (active/inactive)
+   - **Purpose:** Processing subscription purchases
+   - **Data Shared:** Handled entirely by Google/Apple; we never receive your payment details
    - **Privacy Policy:** [Google Play](https://policies.google.com/) / [Apple](https://www.apple.com/legal/privacy/)
 
-2. **Device Operating System APIs**
+2. **RevenueCat (RevenueCat, Inc.)**
+   - **Purpose:** Verifying and managing subscription status only
+   - **Data Shared:** A random anonymous identifier, the app-store purchase record (plan + purchase/expiration dates), and basic device/SDK info — **never any health or journal data**
+   - **Privacy Policy:** [RevenueCat](https://www.revenuecat.com/privacy)
+
+3. **Device Operating System APIs**
    - **Purpose:** Core app functionality
    - **Examples:** File system access, notifications, biometric authentication
    - **Data Shared:** None - all processing is local
@@ -575,7 +588,7 @@ While we implement security measures and backup features, we are not responsible
 **Government Requests:** 0 (we have no data to provide)  
 **Data Breaches:** 0 (we have no centralized data to breach)
 
-**Last Updated:** October 17, 2025
+**Last Updated:** June 8, 2026
 
 ---
 
@@ -584,6 +597,7 @@ While we implement security measures and backup features, we are not responsible
 | Version | Date | Changes |
 |---------|------|---------|
 | 1.0.0 | October 17, 2025 | Initial public release - comprehensive privacy policy |
+| 1.1.0 | June 8, 2026 | Added RevenueCat as the subscription-verification processor; clarified encrypted backups vs. plain PDF/CSV exports |
 
 ---
 
