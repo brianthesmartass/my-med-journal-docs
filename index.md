@@ -3,11 +3,11 @@
 ## Privacy Policy
 [View Privacy Policy](PRIVACY_POLICY)
 
-## End User License Agreement (EULA)
-[View EULA](END_USER_LICENSE_AGREEMENT)
+## Terms of Service & End User License Agreement (EULA)
+[View Terms of Service & EULA](END_USER_LICENSE_AGREEMENT)
 
 ## Contact
 For questions about these documents, contact: support@mymedjournal.app
 
 ---
-Last Updated: October 17, 2025
+Last Updated: June 8, 2026

@@ -1,8 +1,10 @@
-# End User License Agreement (EULA)
+# Terms of Service & End User License Agreement (EULA)
 
 **My Med Journal**  
-**Version 1.0**  
-**Last Updated: October 17, 2025**
+**Version 1.1**  
+**Last Updated: June 8, 2026**
+
+> This document is both our **Terms of Service** and our **End User License Agreement (EULA)**. It governs your use of the My Med Journal application.
 
 ---
 
@@ -26,9 +28,10 @@ You may not:
 - Remove, alter, or obscure any proprietary notices on the Application
 - Rent, lease, lend, sell, redistribute, or sublicense the Application
 - Use the Application for any commercial purpose
-- Use the Application to violate any applicable laws or regulations
+- Use the Application to violate any applicable laws or regulations, or for any unlawful, fraudulent, or malicious purpose
+- Use the Application to harass, abuse, harm, or impersonate another person, or to store or transmit malware or unlawful content
 - Transfer your rights under this license to any third party
-- Use the Application in any way that could damage, disable, overburden, or impair the Application
+- Use the Application in any way that could damage, disable, overburden, or impair the Application or interfere with any other party's use of it
 
 ### 1.3 Ownership
 The Application is licensed, not sold. We and our licensors retain all right, title, and interest in and to the Application, including all intellectual property rights therein. This Agreement does not grant you any rights to our trademarks or service marks.
@@ -47,13 +50,16 @@ You are solely responsible for:
 - Any access to the Application through your device, whether authorized or unauthorized
 - All activity that occurs under your device authentication
 
-### 2.3 Data Backup
-You are responsible for creating and maintaining backups of your data. We strongly recommend:
-- Creating regular backups using the Application's backup feature
-- Storing backups in a secure location
-- Testing backup restoration periodically
+### 2.3 Data Backup and Long-Term Storage
+Your data lives **only on your device**. We do **not** store, host, receive, or have access to your health data or your backups — by design, we never want a copy of your data. **This also means we cannot recover, restore, or retrieve anything for you if it is lost.**
 
-**FAILURE TO MAINTAIN BACKUPS MAY RESULT IN PERMANENT LOSS OF YOUR HEALTH DATA. WE ARE NOT RESPONSIBLE FOR ANY DATA LOSS.**
+You are solely responsible for backing up and safeguarding your data. Because this Application is under active, early-stage development, we **strongly** recommend that you:
+- Create **regular backups** using the Application's backup feature, and keep copies in more than one safe place (a backup file leaves the app's protection once you save or share it).
+- For long-term safety, also **export and keep durable records** — for example, save or **print a PDF** and store the paper copy somewhere secure. Do not rely on a single backup, or on the app alone, to preserve your history.
+- **Test restoring** a backup periodically so you know it works.
+- If you password-protect a backup, **keep that passphrase safe** — if you lose it, the backup **cannot be opened or recovered by anyone, including us.**
+
+**FAILURE TO MAINTAIN BACKUPS AND DURABLE RECORDS MAY RESULT IN PERMANENT LOSS OF YOUR HEALTH DATA. BECAUSE WE HOLD NO COPY OF YOUR DATA AND HAVE NO CONTROL OVER HOW IT IS STORED, USED, OR MAINTAINED, WE ARE NOT RESPONSIBLE FOR ANY DATA LOSS.**
 
 ### 2.4 Professional Medical Advice
 **IMPORTANT:** This Application is not a substitute for professional medical advice, diagnosis, or treatment. You acknowledge and agree that:
@@ -93,12 +99,14 @@ My Med Journal offers optional premium subscriptions with the following terms:
 - **Monthly Subscription:** Recurring monthly payments
 - **Annual Subscription:** Recurring annual payments with savings
 
-### 4.2 Payment Processing
-All subscriptions are processed through:
+### 4.2 Payment Processing and Verification
+All subscriptions are purchased and billed through:
 - **Google Play Store** for Android devices
 - **Apple App Store** for iOS devices
 
-Billing is handled entirely by your app store, and you agree to their respective terms of service.
+Billing is handled entirely by your app store, and you agree to their respective terms of service. We do not process payments or receive your payment details.
+
+We use **RevenueCat (RevenueCat, Inc.)** solely to verify and manage your subscription status. RevenueCat receives the anonymous app-store purchase record and a random identifier — never your health data or your identity. See our Privacy Policy for details.
 
 ### 4.3 Auto-Renewal
 Subscriptions automatically renew unless you cancel at least 24 hours before the end of the current period. You may cancel your subscription at any time through your app store account settings.
@@ -131,14 +139,16 @@ We reserve the right to change subscription prices. Price changes will take effe
 
 ### 5.3 Data Loss
 **WE ARE NOT RESPONSIBLE FOR ANY DATA LOSS,** including but not limited to loss caused by:
-- Device failure, damage, or theft
+- Device failure, damage, loss, or theft
 - Operating system updates or changes
 - Application errors or bugs
 - User error or accidental deletion
-- Failure to create backups
+- Failure to create or keep backups and durable records
 - Corruption of data files
+- Loss of a backup passphrase (a password-protected backup cannot be recovered without it)
+- Uninstalling the Application (which permanently erases all on-device data)
 
-**YOU ACKNOWLEDGE THAT MAINTAINING REGULAR BACKUPS IS YOUR SOLE RESPONSIBILITY.**
+**YOU ACKNOWLEDGE THAT WE HOLD NO COPY OF YOUR DATA AND THEREFORE CANNOT RESTORE IT, AND THAT MAINTAINING REGULAR BACKUPS AND DURABLE RECORDS IS YOUR SOLE RESPONSIBILITY.**
 
 ### 5.4 Limitation of Liability
 **TO THE MAXIMUM EXTENT PERMITTED BY LAW:**
@@ -389,6 +399,7 @@ If you have questions about this Agreement, please contact us:
 | Version | Date | Changes |
 |---------|------|---------|
 | 1.0 | October 17, 2025 | Initial release |
+| 1.1 | June 8, 2026 | Retitled as Terms of Service & EULA; added RevenueCat subscription verification; strengthened data-loss / backup / durable-records terms; expanded prohibited uses |
 
 ---
 
@@ -396,4 +407,4 @@ If you have questions about this Agreement, please contact us:
 
 ---
 
-*This EULA was last updated on October 17, 2025. Please review this document periodically for changes.*
+*This Agreement was last updated on June 8, 2026. Please review this document periodically for changes.*
